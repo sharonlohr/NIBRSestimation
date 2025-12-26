@@ -1,0 +1,169 @@
+ORI,Name,UCR_OFFENSE,SUB_TOC,SUB_TOC_CODE,MONTH,COUNT,Type,Description,Sub_Description
+AZ0072300,Phoenix,09A,,,1,13,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,1,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,1,76,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",1,116,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,1,45,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",1,34,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,1,135,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",1,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,1,672,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,1,585,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,1,3270,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,1,383,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",1,192,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,1,52,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,2,19,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,2,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,2,88,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",2,80,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,2,24,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",2,38,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,2,123,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",2,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,2,659,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,2,550,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,2,3267,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,2,408,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",2,159,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,2,56,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,3,11,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,3,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,3,95,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",3,93,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,3,24,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",3,38,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,3,119,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",3,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,3,685,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,3,568,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,3,3280,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,3,392,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",3,182,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,3,64,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,4,14,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,4,1,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,4,89,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",4,65,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,4,19,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",4,23,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,4,107,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",4,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,4,743,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,4,500,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,4,2564,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,4,341,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",4,152,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,4,71,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,5,18,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,5,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,5,93,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",5,77,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,5,31,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",5,25,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,5,108,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",5,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,5,820,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,5,468,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,5,2767,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,5,418,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",5,146,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,5,77,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,6,13,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,6,1,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,6,84,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",6,89,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,6,34,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",6,30,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,6,114,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",6,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,6,805,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,6,472,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,6,2751,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,6,443,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",6,181,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,6,47,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,7,21,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,7,1,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,7,93,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",7,96,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,7,25,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",7,41,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,7,123,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",7,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,7,848,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,7,535,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,7,2942,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,7,431,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",7,165,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,7,54,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,8,22,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,8,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,8,100,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",8,91,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,8,42,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",8,38,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,8,111,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",8,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,8,787,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,8,584,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,8,3104,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,8,436,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",8,197,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,8,54,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,9,14,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,9,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,9,98,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",9,81,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,9,41,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",9,23,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,9,116,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",9,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,9,691,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,9,520,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,9,3169,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,9,482,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",9,194,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,9,69,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,10,18,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,10,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,10,101,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",10,93,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,10,40,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",10,32,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,10,102,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",10,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,10,703,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,10,527,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,10,3157,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,10,434,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",10,189,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,10,69,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,11,14,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,11,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,11,93,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",11,100,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,11,38,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",11,30,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,11,95,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",11,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,11,642,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,11,479,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,11,3200,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,11,409,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",11,203,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,11,65,Property,Motor Vehicle Theft,Other Vehicles
+AZ0072300,Phoenix,09A,,,12,18,Violent,Murder/Non-negligent Manslaughter,
+AZ0072300,Phoenix,09B,,,12,0,Violent,Manslaughter by negliglence,
+AZ0072300,Phoenix,11A,,11A-11C,12,77,Violent,Rape,
+AZ0072300,Phoenix,120,GUN,"11,12,13,14,15",12,89,Violent,Robbery,Firearm
+AZ0072300,Phoenix,120,KNIFE,20,12,32,Violent,Robbery,Knife
+AZ0072300,Phoenix,120,OTHER_DW,"30,35,50,55,60,65,70",12,24,Violent,Robbery,Other Dangerous Weapon
+AZ0072300,Phoenix,120,STRONGARM,40,12,89,Violent,Robbery,"Strong-arm (hands ,fists, feet)"
+AZ0072300,Phoenix,120,OTHER ,"85,90,95,99",12,0,Violent,Robbery,Other
+AZ0072300,Phoenix,13A,,,12,602,Violent,Aggravated Assault,
+AZ0072300,Phoenix,220,,,12,501,Property,Burglary/Breaking and Entering,
+AZ0072300,Phoenix,23,,23A-23H,12,3197,Property,Theft,
+AZ0072300,Phoenix,240,AUTO,3,12,415,Property,Motor Vehicle Theft,Auto
+AZ0072300,Phoenix,240,TRUCK,"5,37",12,199,Property,Motor Vehicle Theft,Trucks and Buses
+AZ0072300,Phoenix,240,OTHER,24,12,61,Property,Motor Vehicle Theft,Other Vehicles
