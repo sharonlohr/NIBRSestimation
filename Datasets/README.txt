@@ -5,7 +5,7 @@ These files are subject to change; the Master Files used in the paper were downl
 
 Data files ACSDP1Y2021.DP05 and ACSSPP1Y2021.S0201, used in computing the demographic variables for the imputation program, are available for download from data.census.gov.
 
-PHX_count.csv   Monthly crime counts for Phoenix in 2021
+PHX_count.csv:  Monthly crime counts for Phoenix in 2021
 Source: https://www.phoenix.gov/content/dam/phoenix/policesite/documents/crime-stats-and-maps/
 2021_ucr_monthly.pdf, downloaded May 20, 2025
 
